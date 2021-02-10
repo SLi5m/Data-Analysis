@@ -1,0 +1,7 @@
+File Type, Reader
+
+CSV, read_csv
+JSON, read_json
+MS Excel, read_excel
+SQL, read_sql
+HTML, read_html
